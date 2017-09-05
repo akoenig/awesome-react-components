@@ -9,17 +9,22 @@ Well, there are a lot of really awesome (and I don't mean it because of the move
 ## Contents
 
   - [Animations](#animations-)
+  - [Date Picker](#date-picker)
   - [Higher-Order Components](#higher-order-components)
   - [Images](#images-)
 
-### Animations 🎭
+## Animations 🎭
 
   * [react-animate-on-change](https://github.com/arve0/react-animate-on-change): Helps you to animate components whenever something changes (great for animating live updates).
+
+## Date Picker
+
+  * [react-dates](https://github.com/airbnb/react-dates): Mobile-friendly date picker from Airbnb.
 
 ## Higher-Order Components
 
   * [@hocs](https://github.com/deepsweet/hocs): A collection of pretty handy HoCs, like [with-lifecycle](https://github.com/deepsweet/hocs/tree/master/packages/with-lifecycle) or [safe-timers](https://github.com/deepsweet/hocs/tree/master/packages/safe-timers)
 
-### Images 📸
+## Images 📸
 
   * [react-imgpro](https://github.com/nitin42/react-imgpro): An image processing component for manipulating images on-the-fly.
