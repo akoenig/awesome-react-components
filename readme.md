@@ -8,9 +8,9 @@ Well, there are a lot of really awesome (and I don't mean it because of the move
 
 ## Contents
 
-  - [Animations](#animations)
+  - [Animations](#animations-)
   - [Higher-Order Components](#higher-order-components)
-  - [Images](#images)
+  - [Images](#images-)
 
 ### Animations 🎭
 
