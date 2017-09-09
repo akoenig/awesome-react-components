@@ -12,6 +12,7 @@ Well, there are a lot of really awesome (and I don't mean it because of the move
   - [Date Picker](#date-picker)
   - [Higher-Order Components](#higher-order-components)
   - [Images](#images-)
+  - [PDFs](#pdfs-)
 
 ## Animations 🎭
 
@@ -28,3 +29,7 @@ Well, there are a lot of really awesome (and I don't mean it because of the move
 ## Images 📸
 
   * [react-imgpro](https://github.com/nitin42/react-imgpro) – An image processing component for manipulating images on-the-fly.
+
+## PDFs
+
+  * [react-pdf](https://github.com/wojtekmaj/react-pdf) – Utilizes [pdf.js](https://mozilla.github.io/pdf.js/) for rendering PDF documents within your application.
