@@ -19,6 +19,7 @@ Well, there are a lot of really awesome (and I don't mean it because of the move
 
   * [react-animate-on-change](https://github.com/arve0/react-animate-on-change) – Helps you to animate components whenever something changes (great for animating live updates).
   * [react-dom-confetti](https://daniel-lundin.github.io/react-dom-confetti/) – Triggers confetti explosions on state changes.
+  * [react-svg-morph](https://github.com/gorangajic/react-svg-morph/) – Morph SVG-based components into a different shape
 
 ## Date Picker
 
